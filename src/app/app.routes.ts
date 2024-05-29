@@ -4,7 +4,7 @@ import { EditorialComponent } from './editorial/editorial.component';
 import { AlumnoComponent } from './alumno/alumno.component';
 
 export const routes: Routes = [
-    { path: '', component: AlumnoComponent },
+    { path: '', component: AddEjemploComponent },
     { path: 'editorial', component: EditorialComponent },
     { path: 'alumno', component: AlumnoComponent }
 ];
