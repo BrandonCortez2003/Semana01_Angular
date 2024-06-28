@@ -2,7 +2,6 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
 
-![](https://github.com/BrandonCortez2003/Semana01_Angular/blob/master/prueba2.png)
 
 ## Development server
 
